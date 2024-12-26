@@ -1,4 +1,9 @@
-# db-migrate-startkit
+# Hex-PostgreSQL-Practice
+本專案為「六角學院 - 後端資料庫體驗營」的作業，練習如何使用 Docker 來開啟 postgresSQL 容器，並透過 DBever 去連接本地端的 postgresSQL 資料庫，並依照題目練習寫 postgreSQL 語法
+## 快速連結
+* [練習 postgreSQL 的連結](https://github.com/hangineer/Hex-PostgreSQL-Practice/blob/main/migrations/task/sqls/20241021064214-task-up.sql)
+* [題目和資料表 的連結](https://luminous-mule-717.notion.site/1688722405bf80cfba8dc27b9f585bbb?pvs=4)
+* [個人筆記分享 的連結](https://luminous-mule-717.notion.site/2024-12a8722405bf80d3bfaaeae56887d85a)
 
 ## 事前準備
 
